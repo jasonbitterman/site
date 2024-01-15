@@ -149,8 +149,7 @@ h3 {
 }
 
 header {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
   @media (min-width: 700px) {
     padding-top: 2rem;  
     padding-bottom: 2rem;
@@ -160,7 +159,7 @@ header {
 }
 
 header > div {
-  max-width: 800px;
+  max-width: 832px;
   margin: auto;
 }
 
